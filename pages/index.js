@@ -74,9 +74,15 @@ export default function Home() {
                   <SiVisualstudiocode className=" text-2xl cursor-pointer" />
                 </li>
                 <li>
-                  <SiUnity className=" text-2xl cursor-pointer hover:aad"/>
+                  <SiUnity className=" text-2xl cursor-pointer "/>
                 </li>
               </ul>
+            </section>
+            <section id="Projeler" className="text-center font-tfont">
+            <h3 className="pt-6 max-w-xl mx-auto md:text-2xl">
+              PROJELER
+            </h3>
+
             </section>
         </section>
       </main>
